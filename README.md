@@ -12,24 +12,36 @@ A interface segue o protótipo **HabitFlow** feito no Figma: tema roxo em gradie
 
 O protótipo tem 8 telas: **Login**, **Criar conta**, **Início**, **Meus hábitos** (listagem), **Novo hábito** (cadastro/edição), **Detalhes**, **Estatísticas** e **Perfil**.
 
-> Para o link abrir para qualquer pessoa: no Figma, **Share → "Anyone with the link" → can view**.
-
 ---
 
-## 📸 Figma × App em execução
+## 📸 Telas do protótipo (Figma)
 
-| Tela | Figma | App |
-|------|-------|-----|
-| Login | <img src="docs/screenshots/figma-login.png" width="230"> | <img src="docs/screenshots/app-login.png" width="230"> |
-| Criar conta | <img src="docs/screenshots/figma-cadastro-conta.png" width="230"> | <img src="docs/screenshots/app-cadastro-conta.png" width="230"> |
-| Início | <img src="docs/screenshots/figma-inicio.png" width="230"> | <img src="docs/screenshots/app-inicio.png" width="230"> |
-| Meus hábitos | <img src="docs/screenshots/figma-habitos.png" width="230"> | <img src="docs/screenshots/app-habitos.png" width="230"> |
-| Novo hábito | <img src="docs/screenshots/figma-novo-habito.png" width="230"> | <img src="docs/screenshots/app-novo-habito.png" width="230"> |
-| Detalhes | <img src="docs/screenshots/figma-detalhes.png" width="230"> | <img src="docs/screenshots/app-detalhes.png" width="230"> |
-| Estatísticas | <img src="docs/screenshots/figma-estatisticas.png" width="230"> | <img src="docs/screenshots/app-estatisticas.png" width="230"> |
-| Perfil | <img src="docs/screenshots/figma-perfil.png" width="230"> | <img src="docs/screenshots/app-perfil.png" width="230"> |
-
-> As capturas do app foram feitas num emulador Nexus 4 (Android 8.1, tela de 384 dp, mais estreita que o frame do Figma), com dados de demonstração.
+<table align="center">
+  <tr>
+    <th>Login</th>
+    <th>Criar conta</th>
+    <th>Início</th>
+    <th>Meus hábitos</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/figma-login.png" width="170" alt="Login no Figma"></td>
+    <td align="center"><img src="docs/screenshots/figma-cadastro-conta.png" width="170" alt="Criar conta no Figma"></td>
+    <td align="center"><img src="docs/screenshots/figma-inicio.png" width="170" alt="Início no Figma"></td>
+    <td align="center"><img src="docs/screenshots/figma-habitos.png" width="170" alt="Meus hábitos no Figma"></td>
+  </tr>
+  <tr>
+    <th>Novo hábito</th>
+    <th>Detalhes</th>
+    <th>Estatísticas</th>
+    <th>Perfil</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/figma-novo-habito.png" width="170" alt="Novo hábito no Figma"></td>
+    <td align="center"><img src="docs/screenshots/figma-detalhes.png" width="170" alt="Detalhes no Figma"></td>
+    <td align="center"><img src="docs/screenshots/figma-estatisticas.png" width="170" alt="Estatísticas no Figma"></td>
+    <td align="center"><img src="docs/screenshots/figma-perfil.png" width="170" alt="Perfil no Figma"></td>
+  </tr>
+</table>
 
 ---
 
