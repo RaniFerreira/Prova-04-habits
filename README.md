@@ -5,6 +5,9 @@ Aplicativo Android de **controle de hábitos** feito em **Kotlin + Jetpack Compo
 A interface segue o protótipo **HabitFlow** feito no Figma: tema roxo em gradiente, fonte Poppins, cards arredondados e barra de navegação inferior.
 
 ---
+## 🎨 Video YouTube
+
+**Link público:** https://youtu.be/F6znuIwXdWs
 
 ## 🎨 Protótipo no Figma
 
